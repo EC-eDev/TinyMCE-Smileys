@@ -32,3 +32,7 @@ Vous devez ajouter le script Smileys après le script de TinyMCE dans les balise
 </body>
 </html>
 ```
+
+![Icon du plugin dans la barre d'outils](https://raw.githubusercontent.com/EC-eDev/TinyMCE-Smileys/master/Capture%20d'e%CC%81cran%201.png)
+
+![Icon du plugin dans la barre d'outils](https://raw.githubusercontent.com/EC-eDev/TinyMCE-Smileys/master/Capture%20d'e%CC%81cran%202.png)
