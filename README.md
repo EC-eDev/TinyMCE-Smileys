@@ -26,7 +26,7 @@ Vous devez ajouter le script Smileys après le script de TinyMCE dans les balise
 <body>
   
   <form>
-    <textarea id="textarea">Coucou</textarea>
+    <textarea id="textarea"></textarea>
   </form>
   
 </body>
